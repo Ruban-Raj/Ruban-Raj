@@ -1,6 +1,6 @@
 ## Hi there 👋, I am Ruban
 
-                     Senior Manager - Systems Engineering with a knack for solving problems.
+                                     Senior Manager of Systems Engineering team with a knack for solving problems.
 
 💻 Skilled in Ruby, Python, Java, and more ... 
 🎨 Also passionate about UI/UX design and creating intuitive user experiences.
@@ -9,11 +9,11 @@
 📫 You can reach me at rubanmercy1@gmail.com. 
 
 Connect with me:
-https://www.linkedin.com/in/ruban-raj-747a5367/ 
-https://www.instagram.com/ruban.raj15/
+LinkedIn -> https://www.linkedin.com/in/ruban-raj-747a5367/ 
+Insta -> https://www.instagram.com/ruban.raj15/
 
 Languages and Tools:
-android azure c cplusplus css3 firebase flutter gcp git html5 java javascript linux mysql python reactnative swift unreal
+python ruby android azure c cplusplus css3 firebase flutter gcp aws git html5 java javascript linux mysql reactnative swift unreal
 
 
 <!--
