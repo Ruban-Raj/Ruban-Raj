@@ -20,9 +20,6 @@ Languages and Tools:
 python ruby android azure c cplusplus css3 firebase flutter gcp aws git html5 java javascript linux mysql reactnative swift unreal
 
 
-Languages and Tools:
-android azure c cplusplus css3 firebase flutter gcp git html5 java javascript linux mysql python reactnative swift unreal
-
 
 <!--
 **Ruban-Raj/Ruban-Raj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
