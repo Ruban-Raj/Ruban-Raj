@@ -1,10 +1,10 @@
 ## Hi there 👋, I am Ruban
 
-                                     Senior Manager of Systems Engineering team with a knack for solving problems.
+                            Senior Manager of Systems Engineering team with a knack for solving problems.
 
 💻 Skilled in Ruby, Python, Java, and more ... 
-🎨 Also passionate about UI/UX design and creating intuitive user experiences.
-🤝 Open to collaboration on innovative projects.
+ 🎨 Also passionate about UI/UX design and creating intuitive user experiences.
+  🤝 Open to collaboration on innovative projects.
 
 📫 You can reach me at rubanmercy1@gmail.com. 
 
